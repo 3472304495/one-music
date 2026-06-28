@@ -1,6 +1,7 @@
 package com.luvletter.search.controller;
 
 
+import ch.qos.logback.classic.Logger;
 import cn.hutool.json.JSONUtil;
 import com.luvletter.model.common.dtos.ResponseResult;
 import com.luvletter.model.po.Albums;
@@ -8,6 +9,7 @@ import com.luvletter.model.po.Artists;
 import com.luvletter.model.song.po.Songs;
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;
+import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpHost;
 import org.elasticsearch.action.search.SearchRequest;
 import org.elasticsearch.action.search.SearchResponse;
@@ -35,6 +37,7 @@ import java.util.List;
 @RestController
 @RequestMapping("")
 @MapperScan("com.luvletter.model.mapper")
+@Slf4j
 public class SearchController {
 
     private RestHighLevelClient client;
@@ -57,6 +60,7 @@ public class SearchController {
 
     @GetMapping("/searchKeyword")
     public ResponseResult searchAlbums(@RequestParam(required = false) String keyword) throws  IOException{
+        log.info("keyWord",keyword);
         // 分别查询不同类型的索引
         List<Songs> songs=searchAndHandle("songs", "title", keyword, Songs.class);
         List<Albums> albums = searchAndHandle("albums","title", keyword, Albums.class);

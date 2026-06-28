@@ -2,9 +2,11 @@ package com.luvletter.gateway.filter;
 
 import com.alibaba.cloud.commons.lang.StringUtils;
 import com.luvletter.common.util.AppJwtUtil;
+import com.luvletter.gateway.config.WhitelistConfig;
 import io.jsonwebtoken.Claims;
 import lombok.extern.slf4j.Slf4j;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
 import org.springframework.cloud.gateway.filter.GlobalFilter;
 import org.springframework.core.Ordered;
@@ -18,6 +20,10 @@ import reactor.core.publisher.Mono;
 @Component
 @Slf4j
 public class AuthorizeFilter implements Ordered, GlobalFilter {
+
+    @Autowired
+    private WhitelistConfig whitelistConfig;
+
     @Override
     public Mono<Void> filter(ServerWebExchange exchange, GatewayFilterChain chain) {
         //1.获取request和response对象
@@ -25,8 +31,10 @@ public class AuthorizeFilter implements Ordered, GlobalFilter {
         ServerHttpResponse response = exchange.getResponse();
 
         String path = request.getURI().getPath();
-        if(path.contains("/login")) {
-            //放行
+
+        //2.检查是否在白名单中
+        if (whitelistConfig.isWhitelisted(path)) {
+            log.info("路径 {} 在白名单中，放行", path);
             return chain.filter(exchange);
         }
 
