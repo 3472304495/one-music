@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39adc151-f7e2-49e0-aa2c-f579d8b79024" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/common">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\softandwork\apache-maven-3.9.4" />
+        <option name="localRepository" value="C:\softandwork\common_tools\RepMaven" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="C:\softandwork\apache-maven-3.9.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="335gce7or3WZgZZGPoaz5YI7jOd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.DocumentSearchTest.testMatchAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DocumentTest.testDeleteDocumentById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DocumentTest.testGetDocumentById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DocumentTest.testIndexDoc.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DocumentTest.testIndexDocAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDSL.testMatchAll.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDocument.testCreateIndexAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDocument.testCreateIndexArtists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDocument.testExistsIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDocument.testIndexDocArtists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDocumentDatum.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDocumentDatum.testIndexDocAlbums.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ElasticSearchDocumentDatum.testIndexDocArtists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SearchApplicationTests.testCreateIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SearchApplicationTests.testDeleteIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SearchApplicationTests.testExistsIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserApplicationTests.testCreateIndex.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserApplicationTests.testExistsIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.user [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ApiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CommonApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ModelApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SearchApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServiceApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.UserApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/softandwork/IDEA-workspace/ASongWrittenForYou/service/song/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.24079755&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2792793&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\service\song\src\main\resources" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\service\search\src\main\java\com\luvletter\search\controller" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\service\search\src\main\java\com\luvletter\search\mapper" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\service\search\src\main\java\com\luvletter\search\service" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\service\user\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\service\user\src\main\resources\mapper" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\model\src\main\resources" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\service\search\src\main\resources" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\model\src\main\java\com\luvletter\model\service" />
+      <recent name="C:\softandwork\IDEA-workspace\ASongWrittenForYou\model\src\main\java\com\luvletter\model\service\impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.luvletter.search" />
+      <recent name="com.luvletter.search.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luvletter.song.controller" />
+      <recent name="com.luvletter.song.service.Impl" />
+      <recent name="com.luvletter.song.service" />
+      <recent name="com.luvletter.model.song.po" />
+      <recent name="com.luvletter.search.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchApplication">
+    <configuration name="ElasticSearchDSL.testMatchAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luvletter.search.elastic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luvletter.search.elastic" />
+      <option name="MAIN_CLASS_NAME" value="com.luvletter.search.elastic.ElasticSearchDSL" />
+      <option name="METHOD_NAME" value="testMatchAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchDocumentDatum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luvletter.search.elastic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luvletter.search.elastic" />
+      <option name="MAIN_CLASS_NAME" value="com.luvletter.search.elastic.ElasticSearchDocumentDatum" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchDocumentDatum.testIndexDocAlbums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luvletter.search.elastic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luvletter.search.elastic" />
+      <option name="MAIN_CLASS_NAME" value="com.luvletter.search.elastic.ElasticSearchDocumentDatum" />
+      <option name="METHOD_NAME" value="testIndexDocAlbums" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchDocumentDatum.testIndexDocArtists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luvletter.search.elastic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luvletter.search.elastic" />
+      <option name="MAIN_CLASS_NAME" value="com.luvletter.search.elastic.ElasticSearchDocumentDatum" />
+      <option name="METHOD_NAME" value="testIndexDocArtists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchDocument.testIndexDocArtists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luvletter.search.elastic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luvletter.search.elastic" />
+      <option name="MAIN_CLASS_NAME" value="com.luvletter.search.elastic.ElasticSearchDocument" />
+      <option name="METHOD_NAME" value="testIndexDocArtists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luvletter.api.ApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luvletter.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luvletter.model.ModelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luvletter.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SongApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="song" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luvletter.song.SongApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.luvletter.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ElasticSearchDSL.testMatchAll" />
+      <item itemvalue="JUnit.ElasticSearchDocumentDatum" />
+      <item itemvalue="JUnit.ElasticSearchDocumentDatum.testIndexDocAlbums" />
+      <item itemvalue="JUnit.ElasticSearchDocumentDatum.testIndexDocArtists" />
+      <item itemvalue="JUnit.ElasticSearchDocument.testIndexDocArtists" />
+      <item itemvalue="Spring Boot.ApiApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ModelApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.SongApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElasticSearchDocumentDatum.testIndexDocArtists" />
+        <item itemvalue="JUnit.ElasticSearchDocumentDatum" />
+        <item itemvalue="JUnit.ElasticSearchDocumentDatum.testIndexDocAlbums" />
+        <item itemvalue="JUnit.ElasticSearchDocument.testIndexDocArtists" />
+        <item itemvalue="JUnit.ElasticSearchDSL.testMatchAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="39adc151-f7e2-49e0-aa2c-f579d8b79024" name="更改" comment="" />
+      <created>1758612430007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758612430007</updated>
+      <workItem from="1758612431050" duration="81000" />
+      <workItem from="1758612546357" duration="510000" />
+      <workItem from="1758613200771" duration="2181000" />
+      <workItem from="1758615399640" duration="164000" />
+      <workItem from="1758615570120" duration="452000" />
+      <workItem from="1758616145357" duration="308000" />
+      <workItem from="1758616461700" duration="329000" />
+      <workItem from="1758616802809" duration="742000" />
+      <workItem from="1758675785781" duration="1914000" />
+      <workItem from="1758679597735" duration="354000" />
+      <workItem from="1758679963804" duration="1758000" />
+      <workItem from="1758681734988" duration="208000" />
+      <workItem from="1758681950500" duration="2306000" />
+      <workItem from="1758684267818" duration="17886000" />
+      <workItem from="1758762274268" duration="1489000" />
+      <workItem from="1758785656680" duration="7888000" />
+      <workItem from="1758848561346" duration="14203000" />
+      <workItem from="1759021662131" duration="7985000" />
+      <workItem from="1759030268187" duration="13784000" />
+      <workItem from="1759109419750" duration="1658000" />
+      <workItem from="1759218672636" duration="38000" />
+      <workItem from="1760082387314" duration="4879000" />
+      <workItem from="1760144706573" duration="18609000" />
+      <workItem from="1760317884244" duration="5077000" />
+      <workItem from="1760404162738" duration="8229000" />
+      <workItem from="1760492119498" duration="13443000" />
+      <workItem from="1760579580721" duration="5000" />
+      <workItem from="1760922549407" duration="15095000" />
+      <workItem from="1760947245163" duration="6325000" />
+      <workItem from="1760962479351" duration="60000" />
+      <workItem from="1760962554136" duration="1616000" />
+      <workItem from="1760964234656" duration="74000" />
+      <workItem from="1760964329120" duration="1140000" />
+      <workItem from="1761008827165" duration="21416000" />
+      <workItem from="1761095024375" duration="7449000" />
+      <workItem from="1761181741253" duration="14818000" />
+      <workItem from="1761270555325" duration="74000" />
+      <workItem from="1761569168141" duration="2472000" />
+      <workItem from="1761613959222" duration="10920000" />
+      <workItem from="1761697860063" duration="20000" />
+      <workItem from="1762246086585" duration="2327000" />
+      <workItem from="1762251530124" duration="904000" />
+      <workItem from="1762391358704" duration="9000" />
+      <workItem from="1762413386560" duration="811000" />
+      <workItem from="1763994480594" duration="402000" />
+      <workItem from="1764051050417" duration="404000" />
+      <workItem from="1764118580801" duration="9000" />
+      <workItem from="1764747146427" duration="9724000" />
+      <workItem from="1764907928761" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
