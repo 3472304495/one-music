@@ -1,7 +1,7 @@
 package com.luvletter.gateway.filter;
 
 import com.alibaba.cloud.commons.lang.StringUtils;
-import com.luvletter.gateway.util.AppJwtUtil;
+import com.luvletter.common.util.AppJwtUtil;
 import io.jsonwebtoken.Claims;
 import lombok.extern.slf4j.Slf4j;
 

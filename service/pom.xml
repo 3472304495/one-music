@@ -13,6 +13,11 @@
     <name>service</name>
     <description>service</description>
     <packaging>pom</packaging>
+    <modules>
+        <module>song</module>
+        <module>user</module>
+        <module>search</module>
+    </modules>
     <url/>
     <licenses>
         <license/>
@@ -26,9 +31,6 @@
         <tag/>
         <url/>
     </scm>
-    <properties>
-        <java.version>21</java.version>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -67,12 +69,6 @@
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>com.luvLetter</groupId>
-            <artifactId>gateway</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-
-        <dependency>
             <groupId>com.baomidou</groupId>
             <artifactId>mybatis-plus-extension</artifactId>
             <version>3.5.5</version>
@@ -98,14 +94,5 @@
 
 
     </dependencies>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>

@@ -1,6 +1,6 @@
 package com.luvletter.user.service.impl;
 
-import com.luvletter.gateway.util.AppJwtUtil;
+import com.luvletter.common.util.AppJwtUtil;
 import com.luvletter.model.common.enums.AppHttpCodeEnum;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
 import com.luvletter.model.common.dtos.ResponseResult;

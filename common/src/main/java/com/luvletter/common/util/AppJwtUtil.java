@@ -1,4 +1,4 @@
-package com.luvletter.gateway.util;
+package com.luvletter.common.util;
 
 import io.jsonwebtoken.*;
 import javax.crypto.SecretKey;

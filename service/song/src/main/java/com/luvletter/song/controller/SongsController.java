@@ -70,7 +70,7 @@ public class SongsController {
         List<Songs> songs=new ArrayList<>();
         SearchHits searchHits = response.getHits();
         long total = searchHits.getTotalHits().value;
-        System.out.println("索引 " + songs.getLast() + " 共搜索到" + total + "条数据");
+        System.out.println("索引 共搜索到" + total + "条数据");
         SearchHit[] hits = searchHits.getHits();
         for (SearchHit hit : hits) {
             String source = hit.getSourceAsString();
